@@ -1,3 +1,3 @@
 # Project "Unite Gaming"
 
-![Unite Gaming](unite-gaming-screenshot.png)
+![Unite Gaming](Thumbnail.png)
